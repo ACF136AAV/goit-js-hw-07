@@ -1,3 +1,4 @@
+
 const input = document.querySelector('input[type="number"]');
 const createBtn = document.querySelector('[data-create]');
 const destroyBtn = document.querySelector('[data-destroy]');
